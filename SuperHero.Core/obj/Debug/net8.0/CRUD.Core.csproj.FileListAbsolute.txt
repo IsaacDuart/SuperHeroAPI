@@ -1,0 +1,11 @@
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/bin/Debug/net8.0/CRUD.Core.deps.json
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/bin/Debug/net8.0/CRUD.Core.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/bin/Debug/net8.0/CRUD.Core.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/obj/Debug/net8.0/CRUD.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/obj/Debug/net8.0/CRUD.Core.AssemblyInfoInputs.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/obj/Debug/net8.0/CRUD.Core.AssemblyInfo.cs
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/obj/Debug/net8.0/CRUD.Core.csproj.CoreCompileInputs.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/obj/Debug/net8.0/CRUD.Core.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/obj/Debug/net8.0/refint/CRUD.Core.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/obj/Debug/net8.0/CRUD.Core.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/obj/Debug/net8.0/ref/CRUD.Core.dll

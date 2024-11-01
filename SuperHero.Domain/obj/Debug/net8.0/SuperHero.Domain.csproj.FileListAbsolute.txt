@@ -1,0 +1,30 @@
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/bin/Debug/net8.0/SuperHero.Domain.deps.json
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/bin/Debug/net8.0/SuperHero.Domain.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/bin/Debug/net8.0/SuperHero.Domain.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/bin/Debug/net8.0/SuperHero.Core.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/bin/Debug/net8.0/SuperHero.Core.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.csproj.AssemblyReference.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.AssemblyInfoInputs.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.AssemblyInfo.cs
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.csproj.CoreCompileInputs.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/obj/Debug/net8.0/SuperHer.BFFE42BB.Up2Date
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/obj/Debug/net8.0/refint/SuperHero.Domain.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Domain/obj/Debug/net8.0/ref/SuperHero.Domain.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/bin/Debug/net8.0/SuperHero.Domain.deps.json
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/bin/Debug/net8.0/SuperHero.Domain.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/bin/Debug/net8.0/SuperHero.Domain.pdb
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/bin/Debug/net8.0/SuperHero.Core.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/bin/Debug/net8.0/SuperHero.Core.pdb
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.csproj.AssemblyReference.cache
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.AssemblyInfoInputs.cache
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.AssemblyInfo.cs
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.csproj.CoreCompileInputs.cache
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/obj/Debug/net8.0/SuperHer.BFFE42BB.Up2Date
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/obj/Debug/net8.0/refint/SuperHero.Domain.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/obj/Debug/net8.0/SuperHero.Domain.pdb
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/obj/Debug/net8.0/ref/SuperHero.Domain.dll

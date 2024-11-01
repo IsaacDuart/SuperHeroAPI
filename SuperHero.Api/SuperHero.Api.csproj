@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>CRUD.Api</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="AutoMapper" Version="13.0.1" />
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.35" />
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="6.0.35" />
+        <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.6" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="WeatherForecast.cs" />
+      <Compile Remove="Controllers\WeatherForecastController.cs" />
+      <Compile Remove="ViewModels\CreateUserViewModel.cs" />
+      <Compile Remove="Profiles\**" />
+      <Compile Remove="Controllers\aa.cs" />
+      <Compile Remove="Token\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Controllers\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SuperHero.Core\SuperHero.Core.csproj" />
+      <ProjectReference Include="..\SuperHero.Domain\SuperHero.Domain.csproj" />
+      <ProjectReference Include="..\SuperHero.Infra\SuperHero.Infra.csproj" />
+      <ProjectReference Include="..\SuperHero.Services\SuperHero.Services.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="Profiles\**" />
+      <EmbeddedResource Remove="Token\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Remove="Profiles\**" />
+      <Content Remove="Token\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Profiles\**" />
+      <None Remove="CRUD.Api.http" />
+      <None Remove="Token\**" />
+    </ItemGroup>
+
+</Project>

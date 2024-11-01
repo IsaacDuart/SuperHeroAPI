@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0onE9f4TH1Q=",
+  "success": true,
+  "projectFilePath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/SuperHero.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/isaacduarte/.nuget/packages/fluentvalidation/11.10.0/fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/bin/Debug/net8.0/CRUD.DOmain.deps.json
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/bin/Debug/net8.0/CRUD.DOmain.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/bin/Debug/net8.0/CRUD.DOmain.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/obj/Debug/net8.0/CRUD.DOmain.csproj.AssemblyReference.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/obj/Debug/net8.0/CRUD.DOmain.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/obj/Debug/net8.0/CRUD.DOmain.AssemblyInfoInputs.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/obj/Debug/net8.0/CRUD.DOmain.AssemblyInfo.cs
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/obj/Debug/net8.0/CRUD.DOmain.csproj.CoreCompileInputs.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/obj/Debug/net8.0/CRUD.DOmain.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/obj/Debug/net8.0/refint/CRUD.DOmain.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/obj/Debug/net8.0/CRUD.DOmain.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/obj/Debug/net8.0/ref/CRUD.DOmain.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/bin/Debug/net8.0/CRUD.Core.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/bin/Debug/net8.0/CRUD.Core.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/obj/Debug/net8.0/CRUD.DOm.B0FD792B.Up2Date

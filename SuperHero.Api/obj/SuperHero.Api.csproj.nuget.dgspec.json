@@ -1,0 +1,393 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Api/SuperHero.Api.csproj": {}
+  },
+  "projects": {
+    "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Api/SuperHero.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Api/SuperHero.Api.csproj",
+        "projectName": "SuperHero.Api",
+        "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Api/SuperHero.Api.csproj",
+        "packagesPath": "/home/isaacduarte/.nuget/packages/",
+        "outputPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/isaacduarte/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/SuperHero.Core.csproj": {
+                "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/SuperHero.Core.csproj"
+              },
+              "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/SuperHero.Domain.csproj": {
+                "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/SuperHero.Domain.csproj"
+              },
+              "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Infra/SuperHero.Infra.csproj": {
+                "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Infra/SuperHero.Infra.csproj"
+              },
+              "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/SuperHero.Services.csproj": {
+                "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/SuperHero.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/isaacduarte/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/SuperHero.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/SuperHero.Core.csproj",
+        "projectName": "SuperHero.Core",
+        "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/SuperHero.Core.csproj",
+        "packagesPath": "/home/isaacduarte/.nuget/packages/",
+        "outputPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/isaacduarte/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/isaacduarte/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/SuperHero.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/SuperHero.Domain.csproj",
+        "projectName": "SuperHero.Domain",
+        "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/SuperHero.Domain.csproj",
+        "packagesPath": "/home/isaacduarte/.nuget/packages/",
+        "outputPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/isaacduarte/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/SuperHero.Core.csproj": {
+                "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/SuperHero.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/isaacduarte/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Infra/SuperHero.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Infra/SuperHero.Infra.csproj",
+        "projectName": "SuperHero.Infra",
+        "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Infra/SuperHero.Infra.csproj",
+        "packagesPath": "/home/isaacduarte/.nuget/packages/",
+        "outputPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/isaacduarte/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/SuperHero.Domain.csproj": {
+                "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/SuperHero.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/isaacduarte/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/SuperHero.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/SuperHero.Services.csproj",
+        "projectName": "SuperHero.Services",
+        "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/SuperHero.Services.csproj",
+        "packagesPath": "/home/isaacduarte/.nuget/packages/",
+        "outputPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/isaacduarte/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/SuperHero.Domain.csproj": {
+                "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Domain/SuperHero.Domain.csproj"
+              },
+              "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Infra/SuperHero.Infra.csproj": {
+                "projectPath": "/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Infra/SuperHero.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/isaacduarte/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Infra/CRUD.Infra.csproj": {}
+  },
+  "projects": {
+    "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/CRUD.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/CRUD.Core.csproj",
+        "projectName": "CRUD.Core",
+        "projectPath": "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/CRUD.Core.csproj",
+        "packagesPath": "/home/isaacduarte/.nuget/packages/",
+        "outputPath": "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/isaacduarte/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/isaacduarte/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/CRUD.DOmain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/CRUD.DOmain.csproj",
+        "projectName": "CRUD.DOmain",
+        "projectPath": "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/CRUD.DOmain.csproj",
+        "packagesPath": "/home/isaacduarte/.nuget/packages/",
+        "outputPath": "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/isaacduarte/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/CRUD.Core.csproj": {
+                "projectPath": "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Core/CRUD.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/isaacduarte/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Infra/CRUD.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Infra/CRUD.Infra.csproj",
+        "projectName": "CRUD.Infra",
+        "projectPath": "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Infra/CRUD.Infra.csproj",
+        "packagesPath": "/home/isaacduarte/.nuget/packages/",
+        "outputPath": "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.Infra/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/isaacduarte/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/CRUD.DOmain.csproj": {
+                "projectPath": "/home/isaacduarte/RiderProjects/CRUDzinho/CRUD.DOmain/CRUD.DOmain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql.Design": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/isaacduarte/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

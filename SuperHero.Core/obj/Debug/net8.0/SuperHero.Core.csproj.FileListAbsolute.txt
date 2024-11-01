@@ -1,0 +1,22 @@
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Core/bin/Debug/net8.0/SuperHero.Core.deps.json
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Core/bin/Debug/net8.0/SuperHero.Core.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Core/bin/Debug/net8.0/SuperHero.Core.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.AssemblyInfoInputs.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.AssemblyInfo.cs
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.csproj.CoreCompileInputs.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Core/obj/Debug/net8.0/refint/SuperHero.Core.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Core/obj/Debug/net8.0/ref/SuperHero.Core.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/bin/Debug/net8.0/SuperHero.Core.deps.json
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/bin/Debug/net8.0/SuperHero.Core.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/bin/Debug/net8.0/SuperHero.Core.pdb
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.AssemblyInfoInputs.cache
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.AssemblyInfo.cs
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.csproj.CoreCompileInputs.cache
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/obj/Debug/net8.0/refint/SuperHero.Core.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/obj/Debug/net8.0/SuperHero.Core.pdb
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Core/obj/Debug/net8.0/ref/SuperHero.Core.dll

@@ -1,0 +1,38 @@
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/bin/Debug/net8.0/SuperHero.Services.deps.json
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/bin/Debug/net8.0/SuperHero.Services.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/bin/Debug/net8.0/SuperHero.Services.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/bin/Debug/net8.0/SuperHero.Core.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/bin/Debug/net8.0/SuperHero.Domain.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/bin/Debug/net8.0/SuperHero.Infra.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/bin/Debug/net8.0/SuperHero.Domain.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/bin/Debug/net8.0/SuperHero.Infra.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/bin/Debug/net8.0/SuperHero.Core.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.csproj.AssemblyReference.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.AssemblyInfoInputs.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.AssemblyInfo.cs
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.csproj.CoreCompileInputs.cache
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/obj/Debug/net8.0/SuperHer.B31468BD.Up2Date
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/obj/Debug/net8.0/refint/SuperHero.Services.dll
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.pdb
+/home/isaacduarte/RiderProjects/CRUDzinho/SuperHero.Services/obj/Debug/net8.0/ref/SuperHero.Services.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/bin/Debug/net8.0/SuperHero.Services.deps.json
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/bin/Debug/net8.0/SuperHero.Services.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/bin/Debug/net8.0/SuperHero.Services.pdb
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/bin/Debug/net8.0/SuperHero.Core.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/bin/Debug/net8.0/SuperHero.Domain.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/bin/Debug/net8.0/SuperHero.Infra.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/bin/Debug/net8.0/SuperHero.Domain.pdb
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/bin/Debug/net8.0/SuperHero.Infra.pdb
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/bin/Debug/net8.0/SuperHero.Core.pdb
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.csproj.AssemblyReference.cache
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.AssemblyInfoInputs.cache
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.AssemblyInfo.cs
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.csproj.CoreCompileInputs.cache
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/obj/Debug/net8.0/SuperHer.B31468BD.Up2Date
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/obj/Debug/net8.0/refint/SuperHero.Services.dll
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/obj/Debug/net8.0/SuperHero.Services.pdb
+/home/isaacduarte/Área de Trabalho/SuperHeroApi/SuperHero.Services/obj/Debug/net8.0/ref/SuperHero.Services.dll
